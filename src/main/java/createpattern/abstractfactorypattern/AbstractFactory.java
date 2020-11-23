@@ -1,7 +1,8 @@
 package createpattern.abstractfactorypattern;
 
 /**
- * @author Gu Yong Feng
+ * 抽象工厂
+ * @author GYF
  * @date 11/23/20
  */
 public abstract class AbstractFactory {

@@ -3,7 +3,7 @@ package createpattern.abstractfactorypattern.shapeimpl;
 import createpattern.abstractfactorypattern.Shape;
 
 /**
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class Circle implements Shape {

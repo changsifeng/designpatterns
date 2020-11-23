@@ -3,7 +3,7 @@ package createpattern.abstractfactorypattern.colorimpl;
 import createpattern.abstractfactorypattern.Color;
 
 /**
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class Green implements Color {

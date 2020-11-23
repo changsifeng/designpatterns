@@ -2,7 +2,7 @@ package createpattern.simplefactorypattern;
 
 /**
  * 简单工厂
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class SimpleFactory {

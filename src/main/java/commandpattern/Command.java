@@ -2,7 +2,7 @@ package commandpattern;
 
 /**
  * 抽象命令
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 

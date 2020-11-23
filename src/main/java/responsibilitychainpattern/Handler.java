@@ -1,7 +1,8 @@
 package responsibilitychainpattern;
 
 /**
- * @author Gu Yong Feng
+ * 处理器
+ * @author GYF
  * @date 11/23/20
  */
 abstract class Handler {

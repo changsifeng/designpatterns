@@ -2,7 +2,7 @@ package createpattern.singletonpattern;
 
 /**
  * 饿汉单例
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class HungrySingleton {

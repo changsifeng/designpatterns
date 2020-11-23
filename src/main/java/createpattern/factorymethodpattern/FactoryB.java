@@ -1,7 +1,8 @@
 package createpattern.factorymethodpattern;
 
 /**
- * @author Gu Yong Feng
+ * 具体工厂B
+ * @author GYF
  * @date 11/23/20
  */
 public class FactoryB implements AbstractFactory {

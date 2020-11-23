@@ -5,7 +5,7 @@ import org.w3c.dom.*;
 import java.io.*;
 
 /**
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class ReadXML1 {

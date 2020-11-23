@@ -4,7 +4,8 @@ import createpattern.abstractfactorypattern.factoryimpl.ColorFactory;
 import createpattern.abstractfactorypattern.factoryimpl.ShapeFactory;
 
 /**
- * @author Gu Yong Feng
+ * 抽象工厂生产者
+ * @author GYF
  * @date 11/23/20
  */
 public class FactoryProducer {

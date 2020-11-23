@@ -8,7 +8,7 @@ import createpattern.abstractfactorypattern.shapeimpl.Rectangle;
 import createpattern.abstractfactorypattern.shapeimpl.Square;
 
 /**
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class ShapeFactory extends AbstractFactory {

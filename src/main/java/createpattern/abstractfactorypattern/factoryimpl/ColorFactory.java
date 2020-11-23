@@ -8,7 +8,7 @@ import createpattern.abstractfactorypattern.colorimpl.Green;
 import createpattern.abstractfactorypattern.colorimpl.Red;
 
 /**
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class ColorFactory extends AbstractFactory {

@@ -1,7 +1,8 @@
 package responsibilitychainpattern;
 
 /**
- * @author Gu Yong Feng
+ * 责任链组装
+ * @author GYF
  * @date 11/23/20
  */
 public class ChainOfResponsibilityPattern {

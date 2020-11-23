@@ -2,7 +2,7 @@ package createpattern.factorymethodpattern;
 
 /**
  * 具体商品A
- * @author Gu Yong Feng
+ * @author GYF
  * @date 11/23/20
  */
 public class ProductA implements Product {

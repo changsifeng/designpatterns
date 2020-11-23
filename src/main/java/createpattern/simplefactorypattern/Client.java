@@ -1,7 +1,8 @@
 package createpattern.simplefactorypattern;
 
 /**
- * @author Gu Yong Feng
+ * 调用客户端
+ * @author GYF
  * @date 11/23/20
  */
 public class Client {
