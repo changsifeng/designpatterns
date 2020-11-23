@@ -2,7 +2,7 @@ package createpattern.prototypepattern;
 
 /**
  * 具体原型类
- * 必须实现Cloneable接口
+ * 必须实现Cloneable接口，在这只是浅克隆
  * @author GYF
  * @date 2020/11/23
  */
